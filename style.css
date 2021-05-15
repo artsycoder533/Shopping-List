@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    list-style-position: inside;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+button {
+
+}
+
+.list {
+    font-size: 2rem;
+}
+.done {
+    text-decoration: line-through;
+    text-decoration-color: red;
+}
